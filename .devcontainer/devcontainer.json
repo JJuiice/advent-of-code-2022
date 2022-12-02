@@ -8,7 +8,8 @@
 		"ghcr.io/devcontainers-contrib/features/mypy:1": {},
 		"ghcr.io/devcontainers-contrib/features/pylint:1": {},
 		"ghcr.io/guiyomh/features/vim:0": {}
-	}
+	},
+	"extensions": ["eamodio.gitlens"]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
