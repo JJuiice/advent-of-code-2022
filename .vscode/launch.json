@@ -5,10 +5,19 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
+			"name": "Python: Day 2 Part 1",
+			"type": "python",
+			"request": "launch",
+			"program": "part1.py",
+			"cwd": "${workspaceFolder}/day02",
+			"console": "integratedTerminal",
+			"justMyCode": true
+		},
+		{
 			"name": "Python: Day 1 Part 2",
 			"type": "python",
 			"request": "launch",
-			"program": "${file}",
+			"program": "part2.py",
 			"cwd": "${workspaceFolder}/day01",
 			"console": "integratedTerminal",
 			"justMyCode": true
