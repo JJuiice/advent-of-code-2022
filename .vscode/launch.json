@@ -31,5 +31,14 @@
 			"console": "integratedTerminal",
 			"justMyCode": true
 		},
+		{
+			"name": "Python: Day 4 Part 1",
+			"type": "python",
+			"request": "launch",
+			"program": "part1.py",
+			"cwd": "${workspaceFolder}/day04",
+			"console": "integratedTerminal",
+			"justMyCode": true
+		}
 	]
 }
