@@ -57,6 +57,15 @@
 			"cwd": "${workspaceFolder}/day06",
 			"console": "integratedTerminal",
 			"justMyCode": true
+		},
+		{
+			"name": "Python: Day 6 Part 2",
+			"type": "python",
+			"request": "launch",
+			"program": "part2.py",
+			"cwd": "${workspaceFolder}/day06",
+			"console": "integratedTerminal",
+			"justMyCode": true
 		}
 	]
 }
