@@ -3,6 +3,11 @@
 #!/usr/bin/env python3
 
 if __name__ == "__main__":
+    # Yes I hardcoded this. Do I wish I did a parser instead?
+    # A little bit, yes.
+    #
+    # Is the joy of completing the challenge at 12 AM before work the next day enough to overcome that regret?
+    # Abso-freakin-lutely.
     crate_stacks = [
         ["Q", "M", "G", "C", "L"],
         ["R", "D", "L", "C", "T", "F", "H", "G"],
